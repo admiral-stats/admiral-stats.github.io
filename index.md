@@ -1,38 +1,20 @@
 
-## Welcome to GitHub Pages
+## Admiral Stats とは？
 
-You can use the [editor on GitHub](https://github.com/admiralstats/admiralstats.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Admiral Stats とは、艦これアーケードのプレイヤーズサイトからエクスポートできる自分のプレイデータを、時系列に可視化するツールです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## サービスの状況
 
-### Markdown
+2016年9月3日〜2019年10月1日の約3年間、admiral-stats.com でサービス提供していましたが、現在はサービスを終了しています。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+サービス終了の詳細については、以下のブログ記事をご覧ください。
 
-```markdown
-Syntax highlighted code block
+[Admiral Stats のサービス提供終了のお知らせ \- 無印吉澤](https://muziyoshiz.hatenablog.com/entry/2019/07/27/191007)
 
-# Header 1
-## Header 2
-### Header 3
+## ソースコードの状況
 
-- Bulleted
-- List
+Admiral Stats のソースコードは [MIT License](http://opensource.org/licenses/MIT) のもとで、オープンソースソフトウェアとして公開されています。
 
-1. Numbered
-2. List
+自分の手元で Admiral Stats を動かしてみたい場合は、このライセンスの範囲でご自由にお使いください。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/admiralstats/admiralstats.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[muziyoshiz/admiral\_stats: 艦これアーケード向けのプレイデータ管理ツール](https://github.com/muziyoshiz/admiral_stats)
