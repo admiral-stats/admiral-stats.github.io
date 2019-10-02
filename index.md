@@ -5,7 +5,7 @@ Admiral Stats とは、艦これアーケードのプレイヤーズサイトか
 
 ## サービスの状況
 
-2016年9月3日〜2019年10月1日の約3年間、admiral-stats.com でサービス提供していましたが、現在はサービスを終了しています。
+2016年9月3日〜2019年10月1日の約3年間、www.admiral-stats.com でサービス提供していましたが、現在はサービスを終了しています。
 
 サービス終了の詳細については、以下のブログ記事をご覧ください。
 
@@ -15,6 +15,6 @@ Admiral Stats とは、艦これアーケードのプレイヤーズサイトか
 
 Admiral Stats のソースコードは [MIT License](http://opensource.org/licenses/MIT) のもとで、オープンソースソフトウェアとして公開されています。
 
-自分の手元で Admiral Stats を動かしてみたい場合は、このライセンスの範囲でご自由にお使いください。
+自分の手元で Admiral Stats を動かしてみたい場合は、今後もこのライセンスの範囲内でご自由にお使いいただけます。
 
 [muziyoshiz/admiral\_stats: 艦これアーケード向けのプレイデータ管理ツール](https://github.com/muziyoshiz/admiral_stats)
