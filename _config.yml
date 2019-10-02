@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+lang: ja-jp
+title: Admiral Stats
+description: Admiral Stats は、艦これアーケードのプレイヤーズサイトからエクスポートできる自分のプレイデータを、時系列に可視化するツールです。
+logo: logo.png
